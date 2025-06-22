@@ -5,7 +5,7 @@ A simple, responsive product page for the fictional TechPro X1 smartwatch. Built
 
 ## Live Demo
 
-👉 https://your-deployment-url.vercel.app
+👉 https://techpro-landing-9udnxizin-clairv0yant5s-projects.vercel.app/
 
 ## Key Features
 
