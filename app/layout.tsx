@@ -15,9 +15,8 @@ const workSans = Work_Sans({
 export const metadata: Metadata = {
   title: "TechPro X1 - The Future on Your Wrist",
   description:
-    "Experience the next generation of smartwatch technology with TechPro X1. Advanced health monitoring, seamless connectivity, and stunning design.",
-  keywords: "smartwatch, wearable tech, health monitoring, fitness tracker",
-    generator: 'v0.dev'
+    "Experience the next generation of smartwatch technology with TechPro X1.",
+  keywords: "smartwatch, wearable tech",
 }
 
 export default function RootLayout({
