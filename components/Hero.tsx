@@ -73,3 +73,4 @@ export default function Hero({ selectedColor }: HeroProps) {
     </section>
   )
 }
+# fake commit 3
